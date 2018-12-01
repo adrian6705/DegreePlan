@@ -1,0 +1,3 @@
+class Minor extends DegreePlan{
+
+}
